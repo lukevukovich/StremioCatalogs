@@ -163,6 +163,12 @@
       "year": 0
     },
     {
+      "id": "tt0372494",
+      "type": "movie",
+      "name": "The Resurrection of Michael Myers",
+      "year": 1987
+    },
+    {
       "id": "tt10543530",
       "type": "movie",
       "name": "Fall of Camp Blood: A Friday the 13th Fan Film",
@@ -262,6 +268,42 @@
       "id": "tt7464054",
       "type": "movie",
       "name": "Untitled Friday the 13th Film",
+      "year": 0
+    },
+    {
+      "id": "tt10171106",
+      "type": "movie",
+      "name": "Michael vs Jason: Evil Emerges",
+      "year": 2019
+    },
+    {
+      "id": "tt0329101",
+      "type": "movie",
+      "name": "Freddy vs. Jason",
+      "year": 2003
+    },
+    {
+      "id": "tt0211443",
+      "type": "movie",
+      "name": "Jason X",
+      "year": 2001
+    },
+    {
+      "id": "tt0107254",
+      "type": "movie",
+      "name": "Jason Goes to Hell: The Final Friday",
+      "year": 1993
+    },
+    {
+      "id": "tt5719786",
+      "type": "movie",
+      "name": "Never Hike Alone",
+      "year": 0
+    },
+    {
+      "id": "tt11940840",
+      "type": "movie",
+      "name": "Never Hike Alone 2",
       "year": 0
     },
     {
@@ -541,6 +583,24 @@
       "year": 1984
     },
     {
+      "id": "tt27819390",
+      "type": "movie",
+      "name": "Freddy's Fridays",
+      "year": 2023
+    },
+    {
+      "id": "tt0101917",
+      "type": "movie",
+      "name": "Freddy's Dead: The Final Nightmare",
+      "year": 1991
+    },
+    {
+      "id": "tt1662040",
+      "type": "movie",
+      "name": "The Freddy Krueger Special",
+      "year": 1988
+    },
+    {
       "id": "tt11755740",
       "type": "movie",
       "name": "Texas Chainsaw Massacre",
@@ -583,6 +643,12 @@
       "year": 1986
     },
     {
+      "id": "tt2620590",
+      "type": "movie",
+      "name": "Leatherface",
+      "year": 2017
+    },
+    {
       "id": "tt0072271",
       "type": "movie",
       "name": "The Texas Chain Saw Massacre",
@@ -617,6 +683,12 @@
       "type": "movie",
       "name": "Terrifier 4",
       "year": 0
+    },
+    {
+      "id": "tt20853816",
+      "type": "movie",
+      "name": "The Mean One",
+      "year": 2022
     },
     {
       "id": "tt8663516",
@@ -679,6 +751,120 @@
       "year": 1998
     },
     {
+      "id": "tt10481868",
+      "type": "movie",
+      "name": "Black Christmas",
+      "year": 2019
+    },
+    {
+      "id": "tt0454082",
+      "type": "movie",
+      "name": "Black Christmas",
+      "year": 2006
+    },
+    {
+      "id": "tt0071222",
+      "type": "movie",
+      "name": "Black Christmas",
+      "year": 1974
+    },
+    {
+      "id": "tt4942404",
+      "type": "movie",
+      "name": "Black Christmas: The Night Billy Came Home",
+      "year": 0
+    },
+    {
+      "id": "tt4045450",
+      "type": "movie",
+      "name": "I Know What You Did Last Summer",
+      "year": 2025
+    },
+    {
+      "id": "tt0910904",
+      "type": "movie",
+      "name": "I Know How Many Runs You Scored Last Summer",
+      "year": 2008
+    },
+    {
+      "id": "tt0469111",
+      "type": "movie",
+      "name": "I'll Always Know What You Did Last Summer",
+      "year": 2006
+    },
+    {
+      "id": "tt0130018",
+      "type": "movie",
+      "name": "I Still Know What You Did Last Summer",
+      "year": 1998
+    },
+    {
+      "id": "tt0119345",
+      "type": "movie",
+      "name": "I Know What You Did Last Summer",
+      "year": 1997
+    },
+    {
+      "id": "tt14121726",
+      "type": "movie",
+      "name": "Jeepers Creepers: Reborn",
+      "year": 2022
+    },
+    {
+      "id": "tt1139592",
+      "type": "movie",
+      "name": "Jeepers Creepers 3",
+      "year": 2017
+    },
+    {
+      "id": "tt0301470",
+      "type": "movie",
+      "name": "Jeepers Creepers 2",
+      "year": 2003
+    },
+    {
+      "id": "tt0263488",
+      "type": "movie",
+      "name": "Jeepers Creepers",
+      "year": 2001
+    },
+    {
+      "id": "tt1870419",
+      "type": "movie",
+      "name": "Hatchet III",
+      "year": 2013
+    },
+    {
+      "id": "tt1270835",
+      "type": "movie",
+      "name": "Hatchet II",
+      "year": 2010
+    },
+    {
+      "id": "tt1161404",
+      "type": "movie",
+      "name": "Blood Night: The Legend of Mary Hatchet",
+      "year": 2009
+    },
+    {
+      "id": "tt0422401",
+      "type": "movie",
+      "name": "Hatchet",
+      "year": 2006
+    },
+    {
+      "id": "tt0364396",
+      "type": "movie",
+      "name": "Hatchetman",
+      "year": 2003
+    },
+    {
+      "id": "tt0064904",
+      "type": "movie",
+      "name": "Hatchet for the Honeymoon",
+      "year": 1970
+    },
+    {
       "id": "tt30229270",
       "type": "movie",
       "name": "Christmas Stalkings",
@@ -688,6 +874,12 @@
       "id": "tt32219564",
       "type": "movie",
       "name": "Death Always Craves",
+      "year": 2026
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Ready or Not: Here I Come",
       "year": 2026
     },
     {
@@ -769,6 +961,12 @@
       "year": 2025
     },
     {
+      "id": "tt32635940",
+      "type": "movie",
+      "name": "Hook",
+      "year": 2025
+    },
+    {
       "id": "tt23489976",
       "type": "movie",
       "name": "Horror Show",
@@ -784,12 +982,6 @@
       "id": "tt33365623",
       "type": "movie",
       "name": "I Heart Willie",
-      "year": 2025
-    },
-    {
-      "id": "tt4045450",
-      "type": "movie",
-      "name": "I Know What You Did Last Summer",
       "year": 2025
     },
     {
@@ -1825,12 +2017,6 @@
       "year": 2023
     },
     {
-      "id": "tt27819390",
-      "type": "movie",
-      "name": "Freddy's Fridays",
-      "year": 2023
-    },
-    {
       "id": "tt28613398",
       "type": "movie",
       "name": "Grim Reaper 3",
@@ -2467,12 +2653,6 @@
       "year": 2022
     },
     {
-      "id": "tt14121726",
-      "type": "movie",
-      "name": "Jeepers Creepers: Reborn",
-      "year": 2022
-    },
-    {
       "id": "tt21405814",
       "type": "movie",
       "name": "Kill Time",
@@ -2707,6 +2887,12 @@
       "year": 2022
     },
     {
+      "id": "tt7144666",
+      "type": "movie",
+      "name": "The Black Phone",
+      "year": 2022
+    },
+    {
       "id": "tt21239560",
       "type": "movie",
       "name": "The Caller",
@@ -2788,12 +2974,6 @@
       "id": "tt20778326",
       "type": "movie",
       "name": "The Madman",
-      "year": 2022
-    },
-    {
-      "id": "tt20853816",
-      "type": "movie",
-      "name": "The Mean One",
       "year": 2022
     },
     {
@@ -3451,6 +3631,12 @@
       "year": 2020
     },
     {
+      "id": "tt7879442",
+      "type": "movie",
+      "name": "Butt Boy",
+      "year": 2020
+    },
+    {
       "id": "tt11547496",
       "type": "movie",
       "name": "Camp Blood 8: Revelations",
@@ -3646,6 +3832,12 @@
       "id": "tt11454088",
       "type": "movie",
       "name": "Meathook Massacre Part VI: Bloodline",
+      "year": 2020
+    },
+    {
+      "id": "tt10980608",
+      "type": "movie",
+      "name": "Never Hike In The Snow",
       "year": 2020
     },
     {
@@ -3937,12 +4129,6 @@
       "year": 2019
     },
     {
-      "id": "tt10481868",
-      "type": "movie",
-      "name": "Black Christmas",
-      "year": 2019
-    },
-    {
       "id": "tt11069456",
       "type": "movie",
       "name": "Blood Cove",
@@ -4072,12 +4258,6 @@
       "id": "tt10077706",
       "type": "movie",
       "name": "Meathook Massacre: The Final Chapter",
-      "year": 2019
-    },
-    {
-      "id": "tt10171106",
-      "type": "movie",
-      "name": "Michael vs Jason: Evil Emerges",
       "year": 2019
     },
     {
@@ -5077,12 +5257,6 @@
       "year": 2017
     },
     {
-      "id": "tt1139592",
-      "type": "movie",
-      "name": "Jeepers Creepers 3",
-      "year": 2017
-    },
-    {
       "id": "tt7664010",
       "type": "movie",
       "name": "Karpenter",
@@ -5128,12 +5302,6 @@
       "id": "tt3013216",
       "type": "movie",
       "name": "Leaf Blower Massacre 2",
-      "year": 2017
-    },
-    {
-      "id": "tt2620590",
-      "type": "movie",
-      "name": "Leatherface",
       "year": 2017
     },
     {
@@ -6124,6 +6292,12 @@
       "id": "tt2823518",
       "type": "movie",
       "name": "Gutterballs 2: Balls Deep",
+      "year": 2015
+    },
+    {
+      "id": "tt4441422",
+      "type": "movie",
+      "name": "Hangman",
       "year": 2015
     },
     {
@@ -7321,12 +7495,6 @@
       "year": 2013
     },
     {
-      "id": "tt1870419",
-      "type": "movie",
-      "name": "Hatchet III",
-      "year": 2013
-    },
-    {
       "id": "tt1786503",
       "type": "movie",
       "name": "Haunted Maze",
@@ -8209,6 +8377,12 @@
       "year": 2012
     },
     {
+      "id": "tt2105044",
+      "type": "movie",
+      "name": "V/H/S",
+      "year": 2012
+    },
+    {
       "id": "tt2027269",
       "type": "movie",
       "name": "Violent Night: The Movie",
@@ -8989,12 +9163,6 @@
       "year": 2010
     },
     {
-      "id": "tt1270835",
-      "type": "movie",
-      "name": "Hatchet II",
-      "year": 2010
-    },
-    {
       "id": "tt1579956",
       "type": "movie",
       "name": "Hellweek",
@@ -9430,12 +9598,6 @@
       "id": "tt1228963",
       "type": "movie",
       "name": "Bikini Girls on Ice",
-      "year": 2009
-    },
-    {
-      "id": "tt1161404",
-      "type": "movie",
-      "name": "Blood Night: The Legend of Mary Hatchet",
       "year": 2009
     },
     {
@@ -10255,12 +10417,6 @@
       "year": 2008
     },
     {
-      "id": "tt0910904",
-      "type": "movie",
-      "name": "I Know How Many Runs You Scored Last Summer",
-      "year": 2008
-    },
-    {
       "id": "tt1007032",
       "type": "movie",
       "name": "iMurders",
@@ -10378,6 +10534,12 @@
       "id": "tt1297456",
       "type": "movie",
       "name": "Psycho Sleepover",
+      "year": 2008
+    },
+    {
+      "id": "tt0450314",
+      "type": "movie",
+      "name": "Punisher: War Zone",
       "year": 2008
     },
     {
@@ -11347,12 +11509,6 @@
       "year": 2006
     },
     {
-      "id": "tt0454082",
-      "type": "movie",
-      "name": "Black Christmas",
-      "year": 2006
-    },
-    {
       "id": "tt0796305",
       "type": "movie",
       "name": "Blood Creek",
@@ -11539,12 +11695,6 @@
       "year": 2006
     },
     {
-      "id": "tt0422401",
-      "type": "movie",
-      "name": "Hatchet",
-      "year": 2006
-    },
-    {
       "id": "tt0485774",
       "type": "movie",
       "name": "Heartstopper",
@@ -11602,12 +11752,6 @@
       "id": "tt1078581",
       "type": "movie",
       "name": "Human Behavior",
-      "year": 2006
-    },
-    {
-      "id": "tt0469111",
-      "type": "movie",
-      "name": "I'll Always Know What You Did Last Summer",
       "year": 2006
     },
     {
@@ -12349,6 +12493,12 @@
       "year": 2005
     },
     {
+      "id": "tt0395584",
+      "type": "movie",
+      "name": "The Devil's Rejects",
+      "year": 2005
+    },
+    {
       "id": "tt1233270",
       "type": "movie",
       "name": "The Devils Dagger",
@@ -12991,21 +13141,9 @@
       "year": 2003
     },
     {
-      "id": "tt0329101",
-      "type": "movie",
-      "name": "Freddy vs. Jason",
-      "year": 2003
-    },
-    {
       "id": "tt0366530",
       "type": "movie",
       "name": "Goth",
-      "year": 2003
-    },
-    {
-      "id": "tt0364396",
-      "type": "movie",
-      "name": "Hatchetman",
       "year": 2003
     },
     {
@@ -13048,12 +13186,6 @@
       "id": "tt0415056",
       "type": "movie",
       "name": "In the Shadow of the Ram",
-      "year": 2003
-    },
-    {
-      "id": "tt0301470",
-      "type": "movie",
-      "name": "Jeepers Creepers 2",
       "year": 2003
     },
     {
@@ -13660,18 +13792,6 @@
       "id": "tt0484112",
       "type": "movie",
       "name": "Hra na vraha",
-      "year": 2001
-    },
-    {
-      "id": "tt0211443",
-      "type": "movie",
-      "name": "Jason X",
-      "year": 2001
-    },
-    {
-      "id": "tt0263488",
-      "type": "movie",
-      "name": "Jeepers Creepers",
       "year": 2001
     },
     {
@@ -14293,12 +14413,6 @@
       "year": 1998
     },
     {
-      "id": "tt0130018",
-      "type": "movie",
-      "name": "I Still Know What You Did Last Summer",
-      "year": 1998
-    },
-    {
       "id": "tt0143296",
       "type": "movie",
       "name": "I've Been Waiting for You",
@@ -14434,12 +14548,6 @@
       "id": "tt0900939",
       "type": "movie",
       "name": "Homicida religioso",
-      "year": 1997
-    },
-    {
-      "id": "tt0119345",
-      "type": "movie",
-      "name": "I Know What You Did Last Summer",
       "year": 1997
     },
     {
@@ -15073,12 +15181,6 @@
       "year": 1993
     },
     {
-      "id": "tt0107254",
-      "type": "movie",
-      "name": "Jason Goes to Hell: The Final Friday",
-      "year": 1993
-    },
-    {
       "id": "tt0106894",
       "type": "movie",
       "name": "Killing Car",
@@ -15436,12 +15538,6 @@
       "id": "tt0415885",
       "type": "movie",
       "name": "Fatal Nightmare",
-      "year": 1991
-    },
-    {
-      "id": "tt0101917",
-      "type": "movie",
-      "name": "Freddy's Dead: The Final Nightmare",
       "year": 1991
     },
     {
@@ -16399,12 +16495,6 @@
       "year": 1988
     },
     {
-      "id": "tt1662040",
-      "type": "movie",
-      "name": "The Freddy Krueger Special",
-      "year": 1988
-    },
-    {
       "id": "tt1865523",
       "type": "movie",
       "name": "The Hackers",
@@ -16732,12 +16822,6 @@
       "id": "tt0091707",
       "type": "movie",
       "name": "The Outing",
-      "year": 1987
-    },
-    {
-      "id": "tt0372494",
-      "type": "movie",
-      "name": "The Resurrection of Michael Myers",
       "year": 1987
     },
     {
@@ -18595,12 +18679,6 @@
       "year": 1974
     },
     {
-      "id": "tt0071222",
-      "type": "movie",
-      "name": "Black Christmas",
-      "year": 1974
-    },
-    {
       "id": "tt0069041",
       "type": "movie",
       "name": "Blue Eyes of the Broken Doll",
@@ -19099,12 +19177,6 @@
       "year": 1970
     },
     {
-      "id": "tt0064904",
-      "type": "movie",
-      "name": "Hatchet for the Honeymoon",
-      "year": 1970
-    },
-    {
       "id": "tt0063552",
       "type": "movie",
       "name": "Hollywood Horror House",
@@ -19363,12 +19435,6 @@
       "year": 0
     },
     {
-      "id": "tt4942404",
-      "type": "movie",
-      "name": "Black Christmas: The Night Billy Came Home",
-      "year": 0
-    },
-    {
       "id": "tt5931888",
       "type": "movie",
       "name": "Blackout",
@@ -19609,6 +19675,12 @@
       "year": 0
     },
     {
+      "id": "tt37340730",
+      "type": "movie",
+      "name": "My Blade is Your Salvation",
+      "year": 0
+    },
+    {
       "id": "tt0156815",
       "type": "movie",
       "name": "Mørkeræd",
@@ -19618,18 +19690,6 @@
       "id": "tt2233454",
       "type": "movie",
       "name": "Never Have I Ever",
-      "year": 0
-    },
-    {
-      "id": "tt5719786",
-      "type": "movie",
-      "name": "Never Hike Alone",
-      "year": 0
-    },
-    {
-      "id": "tt11940840",
-      "type": "movie",
-      "name": "Never Hike Alone 2",
       "year": 0
     },
     {
