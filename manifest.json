@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "name": "Luke's Catalogs",
   "description": "A collection of Luke's favorite catalogs.",
-  "types": ["movie"],
+  "types": ["movie", "series"],
   "resources": ["catalog"],
   "idPrefixes": ["tt"],
   "catalogs": [
