@@ -1,6 +1,6 @@
 {
   "id": "mdb.luke.catalog",
-  "version": "∞",
+  "version": "1.0.0",
   "name": "Luke's Catalogs",
   "types": ["movie"],
   "resources": ["catalog"],
