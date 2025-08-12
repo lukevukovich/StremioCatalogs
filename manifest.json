@@ -6,6 +6,15 @@
   "resources": ["catalog"],
   "idPrefixes": ["tt"],
   "catalogs": [
-    { "type": "movie", "id": "slasher", "name": "Slasher Movies" }
+    {
+      "type": "movie",
+      "id": "slasher",
+      "name": "Slasher Movies",
+      "extra": [
+        { "name": "search", "isRequired": false },
+        { "name": "genre", "isRequired": false },
+        { "name": "all", "isRequired": false }
+      ]
+    }
   ]
 }
