@@ -23,8 +23,10 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Run updater
+      - name: Run update movie
         run: python update.py movie
+
+      - name: Run update series
         run: python update.py series
 
       - name: Commit & push if changed
