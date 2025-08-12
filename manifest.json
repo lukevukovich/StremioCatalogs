@@ -11,6 +11,11 @@
       "type": "movie",
       "id": "slasher",
       "name": "Slasher Films"
+    },
+    {
+      "type": "movie",
+      "id": "gangster",
+      "name": "Gangster Movies"
     }
   ]
 }
