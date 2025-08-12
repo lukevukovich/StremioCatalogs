@@ -24,7 +24,8 @@ jobs:
         run: pip install requests
 
       - name: Run updater
-        run: python update.py
+        run: python update.py movie
+        run: python update.py series
 
       - name: Commit & push if changed
         run: |
