@@ -1,6 +1,6 @@
 {
   "id": "mdb.luke.catalog",
-  "version": "1.0.0",
+  "version": "∞",
   "name": "Luke's Catalogs",
   "types": ["movie"],
   "resources": ["catalog"],
@@ -9,12 +9,7 @@
     {
       "type": "movie",
       "id": "slasher",
-      "name": "Slasher Movies",
-      "extra": [
-        { "name": "search", "isRequired": false },
-        { "name": "genre", "isRequired": false },
-        { "name": "all", "isRequired": false }
-      ]
+      "name": "Slasher Movies"
     }
   ]
 }
