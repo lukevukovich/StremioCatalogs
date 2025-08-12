@@ -1,5 +1,5 @@
 {
-  "id": "mdb.luke.catalog",
+  "id": "stremio.luke.catalog",
   "version": "1.0.0",
   "name": "Luke's Catalogs",
   "description": "A collection of Luke's favorite catalogs.",
@@ -10,7 +10,7 @@
     {
       "type": "movie",
       "id": "slasher",
-      "name": "Slasher Movies"
+      "name": "Slasher Films"
     }
   ]
 }
