@@ -1135,6 +1135,12 @@
       "year": 2025
     },
     {
+      "id": "tt29632632",
+      "type": "movie",
+      "name": "THE RAGE, Blood From The Sea",
+      "year": 2025
+    },
+    {
       "id": "tt28671344",
       "type": "movie",
       "name": "The Strangers: Chapter 2",
@@ -1756,12 +1762,6 @@
       "id": "tt21235030",
       "type": "movie",
       "name": "The Only Ones",
-      "year": 2024
-    },
-    {
-      "id": "tt29632632",
-      "type": "movie",
-      "name": "THE RAGE, Blood From The Sea",
       "year": 2024
     },
     {
@@ -19516,18 +19516,6 @@
       "id": "tt36595697",
       "type": "movie",
       "name": "Final Act",
-      "year": 0
-    },
-    {
-      "id": "tt1831651",
-      "type": "movie",
-      "name": "Final Curtain: Part 4 - Blood Brothers",
-      "year": 0
-    },
-    {
-      "id": "tt1827414",
-      "type": "movie",
-      "name": "Final Curtain: Part 5 - Trail of Terror",
       "year": 0
     },
     {
