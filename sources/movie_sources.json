@@ -1,7 +1,7 @@
 {
   "slasher": {
     "url": "https://mdblist.com/lists/slander2328/slasher-movies/json",
-    "sort": [
+    "include": [
       "halloween",
       "myers",
       "friday the 13th",
@@ -20,11 +20,12 @@
       "black christmas",
       "last summer",
       "jeepers creepers",
-      "hatchet"
+      "hatchet",
+      "thanksgiving"
     ]
   },
   "gangster": {
     "url": "https://mdblist.com/lists/slander2328/gangster-movies-xhebzvlfgb/json",
-    "sort": []
+    "include": []
   }
 }
