@@ -1135,12 +1135,6 @@
       "year": 2025
     },
     {
-      "id": "tt29632632",
-      "type": "movie",
-      "name": "THE RAGE, Blood From The Sea",
-      "year": 2025
-    },
-    {
       "id": "tt28671344",
       "type": "movie",
       "name": "The Strangers: Chapter 2",
@@ -1762,6 +1756,12 @@
       "id": "tt21235030",
       "type": "movie",
       "name": "The Only Ones",
+      "year": 2024
+    },
+    {
+      "id": "tt29632632",
+      "type": "movie",
+      "name": "THE RAGE, Blood From The Sea",
       "year": 2024
     },
     {
