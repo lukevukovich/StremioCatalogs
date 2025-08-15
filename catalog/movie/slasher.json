@@ -714,6 +714,20 @@
       "poster": "https://image.tmdb.org/t/p/w500//nsmW28GcNabCUZfP5YtUEe8Li0f.jpg"
     },
     {
+      "id": "tt0111686",
+      "type": "movie",
+      "name": "New Nightmare",
+      "year": 1994,
+      "poster": "https://image.tmdb.org/t/p/w500//eN3UZUYapJ2CJCD9dN0LUZLouKa.jpg"
+    },
+    {
+      "id": "tt11126114",
+      "type": "movie",
+      "name": "Dylan's New Nightmare",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w500//fe5NNFopUrvVEzH9NHHl0qOJQrS.jpg"
+    },
+    {
       "id": "tt0329101",
       "type": "movie",
       "name": "Freddy vs. Jason",
