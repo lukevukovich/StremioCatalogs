@@ -196,6 +196,13 @@
       "year": null
     },
     {
+      "id": "tt28239100",
+      "type": "movie",
+      "name": "Halloween II: The Game",
+      "year": 2023,
+      "poster": "https://image.tmdb.org/t/p/w500//i1MhKDc6OuXZwa6hGqkT7ZeYtFh.jpg"
+    },
+    {
       "id": "tt0095271",
       "type": "movie",
       "name": "Halloween 4: The Return of Michael Myers",
@@ -486,18 +493,18 @@
       "poster": "https://image.tmdb.org/t/p/w500//dvfidlG1ylyicr56Dp6YYtYDu3C.jpg"
     },
     {
-      "id": "tt0090186",
-      "type": "movie",
-      "name": "Too Scared to Scream",
-      "year": 1984,
-      "poster": "https://image.tmdb.org/t/p/w500//r9vhZywI811oYJEmT1Xv1L6N2Xy.jpg"
-    },
-    {
       "id": "tt0086262",
       "type": "movie",
       "name": "Scream",
       "year": 1981,
       "poster": "https://image.tmdb.org/t/p/w500//fENI8R4NOIqBMEbx7TlQHRLLbgx.jpg"
+    },
+    {
+      "id": "tt0090186",
+      "type": "movie",
+      "name": "Too Scared to Scream",
+      "year": 1984,
+      "poster": "https://image.tmdb.org/t/p/w500//r9vhZywI811oYJEmT1Xv1L6N2Xy.jpg"
     },
     {
       "id": "tt0086263",
@@ -663,6 +670,13 @@
       "name": "Scream: Legacy",
       "year": 2022,
       "poster": "https://image.tmdb.org/t/p/w500//wieyljStk0EyBBtYURhpWZKSbQ4.jpg"
+    },
+    {
+      "id": "tt36094511",
+      "type": "movie",
+      "name": "Piercing Screams",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500//vXC9scwAZACHAKHtUAt6qJ6G6K6.jpg"
     },
     {
       "id": "tt21188268",
